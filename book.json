@@ -1,0 +1,7 @@
+{
+  "title": "Misconceptions",
+  "description": "Short exercises to tackle common misconceptions at Makers Academy",
+  "plugins": [
+    "klipse"
+  ]
+}
